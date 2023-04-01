@@ -34,4 +34,5 @@ Contoh result response dari postman:
     "date": "2023-01-01 15:00:00",
     "total": "500000",
     "__v": 0
-}```
+}
+```
