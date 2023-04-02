@@ -13,9 +13,9 @@ Buatlah 1 endpoint API menggunakan mongodb dan nodejs untuk mendapatkan data inv
 }
 ```
 
-Buatan: Bagus Dwi Putra
-Linkedin: https://www.linkedin.com/in/bagus-dwi-putra/
-Private email: bagusdp2011@gmail.com
+Buatan: Bagus Dwi Putra <br>
+Linkedin: https://www.linkedin.com/in/bagus-dwi-putra/ <br>
+Private email: bagusdp2011@gmail.com <br>
 
 Untuk lihat hasil,
 silahkan ketik ``` node server.js ```
